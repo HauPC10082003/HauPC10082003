@@ -58,8 +58,6 @@
 |----------|-------------|------|
 | 📦 ERP Warehouse | Warehouse Management System | Angular + .NET |
 | 🛒 POS System | Point Of Sale | React + Redux |
-| 📱 Mobile Ordering | Restaurant Ordering | React Native |
-| 🚗 FiveM Roleplay | Custom Scripts | Lua + QBCore |
 
 ---
 
@@ -67,9 +65,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HauPC10082003&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HauPC10082003&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -79,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HauPC10082003&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -89,7 +87,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HauPC10082003&theme=tokyo-night"/>
 
 </div>
 
@@ -99,7 +97,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HauPC10082003&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -117,7 +115,6 @@
 ★★★★☆ SQL
 ★★★★☆ Tailwind CSS
 ★★★★☆ PrimeReact
-★★★☆☆ Docker
 ```
 
 ---
@@ -126,15 +123,15 @@
 
 <p>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pch10082003@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ph%E1%BA%A1m-c%C3%B4ng-h%E1%BA%ADu-27b2332a8/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK">
+<a href="https://facebook.com/PhamCongHau.1008">
 <img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
