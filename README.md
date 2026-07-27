@@ -83,14 +83,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HauPC10082003&theme=tokyo-night"/>
-
-</div>
-
 ---
 
 # 🏆 GitHub Trophies
